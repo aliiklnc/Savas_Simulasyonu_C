@@ -53,12 +53,12 @@ Simülasyon, savaşın başlangıç ve bitiş anlarının görsel bir temsilini 
 ### Savaş Öncesi Durum
 Tüm birliklerin can barları %100 doludur. Sol/sağ üstte kahramanlar, sol/sağ altta ise canavarlar görünmektedir.
 
-[](before.png)
+![](before.png)
 
 ### Savaş Sonrası Durum
 Savaş simüle edildikten sonra, can barlarında azalma görülür ve canı tamamen biten birlikler görsel olarak oyun sahasından kaldırılır.
 
-[](after.png)
+![](after.png)
 
 ## ✍️ Yazar Katkıları
 
