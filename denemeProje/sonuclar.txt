@@ -1,0 +1,55 @@
+1. adim
+-------------------------------------
+INSAN IMPARATORLUGU
+Piyade saglik         : 79428.57
+Okcu saglik           : 69714.29
+Suvari saglik         : 104571.43
+Kusatma saglik        : 124285.71
+---------------------
+ORK LEGI
+Ork dovuscu saglik    : 62125.75
+Mizrakci saglik       : 59700.60
+Varg binicisi saglik  : 69022.46
+Troller saglik        : 139401.20
+---------------------
+Insanlara Net Hasar   : 72000.00
+Orklara Net Hasar     : 189750.00
+V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V
+
+2. adim
+-------------------------------------
+INSAN IMPARATORLUGU
+Piyade saglik         : 56457.14
+Okcu saglik           : 58228.57
+Suvari saglik         : 87342.86
+Kusatma saglik        : 95571.43
+---------------------
+ORK LEGI
+Ork dovuscu saglik    : 16003.21
+Mizrakci saglik       : 22802.57
+Varg binicisi saglik  : 0.00
+Troller saglik        : 65605.14
+---------------------
+Insanlara Net Hasar   : 80400.00
+Orklara Net Hasar     : 242212.50
+V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V
+
+3. adim
+-------------------------------------
+INSAN IMPARATORLUGU
+Piyade saglik         : 56457.14
+Okcu saglik           : 58228.57
+Suvari saglik         : 87342.86
+Kusatma saglik        : 95571.43
+---------------------
+ORK LEGI
+Ork dovuscu saglik    : 0.00
+Mizrakci saglik       : 0.00
+Varg binicisi saglik  : 0.00
+Troller saglik        : 0.00
+---------------------
+Insanlara Net Hasar   : 80400.00
+Orklara Net Hasar     : 311319.38
+V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V-V
+
+INSANLAR KAZANDI!
